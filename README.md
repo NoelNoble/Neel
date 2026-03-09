@@ -156,6 +156,7 @@ README.md
 ## Author
 
 **Noel**
+
 Creator of the Neel Assistant.
 
 ---
